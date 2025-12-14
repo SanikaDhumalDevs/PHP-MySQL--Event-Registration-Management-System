@@ -1,0 +1,60 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#name{
+	width:300px;
+	border:3px solid #FF9800;
+	padding:5px;
+	background:none;
+	outline:0;
+	color:white;
+	font-size:16px;
+}
+::placeholder{
+	color:white;
+	font-style:italic;
+}
+select{
+	color:white;
+		font-style:italic;
+}
+select option{
+	background-color:black;
+	color:white;
+	font-weight:bold;
+}
+#new{
+	width:120px;
+	padding:10px;
+	background:#FF9800;
+	color:white;
+	font-family:monospace;
+	font-size:20px;
+	font-style:italic;
+	outline:0;
+	border:none;
+	margin-left:100px;
+}
+
+.login-page{
+	background:
+	
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+#reg1{
+	margin:auto;
+	width:25%;
+	padding:25px; 
+	background-color:rgba(0,0,0,0.2);
+	color:white; 
+	margin-top:50px;
+	justify-content:center;	
+}
+.right-section {
+  float: right;
+  margin-right: 20px;
+} 
+
